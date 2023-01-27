@@ -11,5 +11,4 @@ while True:
     count += 1
     if (num == n):
         break
-
 print(count)
