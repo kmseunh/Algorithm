@@ -7,4 +7,5 @@ for i in range(1, n+1):
         hansu += 1
     elif nums[0] - nums[1] == nums[1] - nums[2]:
         hansu += 1
+        
 print(hansu)
