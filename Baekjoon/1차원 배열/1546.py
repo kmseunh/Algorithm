@@ -1,4 +1,4 @@
-n = int(input())  # 과목 수
+n = int(input())
 test_list = list(map(int, input().split()))
 max_score = max(test_list)
 
