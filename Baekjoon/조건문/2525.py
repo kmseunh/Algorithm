@@ -3,7 +3,6 @@ timer = int(input())
 
 H += timer // 60
 M += timer % 60
-
 if M >= 60:
     H += 1
     M -= 60
