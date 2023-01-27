@@ -4,4 +4,5 @@ for i in range(9):
     numbers.append(j)
 
 print(max(numbers))
+## 출력하기
 print(numbers.index(max(numbers))+1)
