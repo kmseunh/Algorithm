@@ -7,8 +7,8 @@ while True:
     b = num % 10
     c = (a+b) % 10
     num = (b*10)+c
-
     count += 1
     if (num == n):
         break
+        
 print(count)
