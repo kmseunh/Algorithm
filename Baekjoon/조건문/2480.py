@@ -1,4 +1,5 @@
 A, B, C = map(int, input().split())
+
 if A == B == C:
     print(10000+A*1000)
 elif A == B:
