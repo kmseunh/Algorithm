@@ -11,7 +11,6 @@ for i in range(m, n+1):
                 break
         if count == 0:
             sosu.append(i)
-
 if len(sosu) > 0:
     print(sum(sosu))
     print(min(sosu))
