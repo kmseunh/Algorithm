@@ -8,5 +8,4 @@ for i in numbers:
             if i == j:
                 sosu += 1
             break
-
 print(sosu)
